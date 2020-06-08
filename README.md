@@ -1,6 +1,34 @@
-# TextClassification
+# Text-Classification
 
-This is a repository for different types of text classifcation algorithms.
+This is a repository for trying different types of text classifcation algorithms.
+
+Data used: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data (saved in 'data' folder)
+
+There are various steps involved in Text Classification:
+1. Cleaning and Preprocessing
+2. Feature Extraction    
+    2.1 Bag of Words    
+    2.2 TF-IDF    
+    2.3 Word2Vec   
+    2.4 GloVe (Pre-Trained)   
+    2.5 GloVe (Trained)   
+    2.6 FastText   
+    2.7 Contextualized Word Representations
+3. Dimensionality Reduction
+4. Classification Models   
+    4.1 Naive Bayes   
+    4.2 Support Vector Machine   
+    4.3 Basic LSTM   
+
+
+# Results:
+| Models | Naive-Bayes |
+| --- | ----------- |
+| Score | |
+| Time Taken | |
+
+
+
 1. Bag of words models
 2. Naive Bayes
 3. Support Vector Machine
