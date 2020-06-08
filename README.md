@@ -14,7 +14,12 @@ There are various steps involved in Text Classification:
     2.5 GloVe (Trained)   
     2.6 FastText   
     2.7 Contextualized Word Representations
-3. Dimensionality Reduction
+3. Dimensionality Reduction   
+    3.1 Principal Component Analysis(PCA)   
+    3.2 Linear Discriminant Ananlysis(LDA)   
+    3.3 Non-negative Matrix Factorization (NMF)   
+    3.4 Random Projection   
+    3.5 Autoencoder   
 4. Classification Models   
     4.1 Naive Bayes   
     4.2 Support Vector Machine   
